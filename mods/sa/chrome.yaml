@@ -15,9 +15,9 @@
 sidebar:
 	Inherits: ^Chrome
 	Regions:
-		background-top: 0, 0, 226, 295
-		background-iconrow: 0, 295, 226, 48
-		background-bottom: 0, 343, 226, 13
+		background-top: 528, 0, 253, 656
+		background-iconrow: 0, 0, 0, 0
+		background-bottom: 528, 650, 253, 6
 
 sidebar-button:
 	Inherits: ^Chrome
